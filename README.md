@@ -13,7 +13,8 @@ Add: add_header 'Access-Control-Allow-Origin' '*';
 + /www/server/nginx/conf/nginx.confr
 + /www/server/Panel/Vhost/nginx/You-Domain.conf
 
+NIP5 Verification
 
-
+https://tiangong.space/nip5-verification/
 
 
